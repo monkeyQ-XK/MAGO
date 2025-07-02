@@ -11,5 +11,5 @@ streamlit==1.37.0
 sqlalchemy
 xgboost==2.1.0
 openpyxl
-
+lightgbm
 
