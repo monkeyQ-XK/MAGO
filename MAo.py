@@ -15,7 +15,7 @@ def home_page():
     st.markdown("<hr style='border: 1px solid #ccc;'/>", unsafe_allow_html=True)
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
-        st.image('img.png',use_column_width=True)
+        st.image('img.png')
 
     st.subheader("Magnesium Alloys: Lightweight, Strong, and Innovative")
 
